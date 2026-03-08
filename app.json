@@ -1,0 +1,1 @@
+{"expo": {"name": "Bedtime Story Mobile","slug": "bedtime-story-mobile","version": "1.0.0","sdkVersion": "47.0.0","platforms": ["ios", "android"],"ios": {"bundleIdentifier": "com.example.bedtimeStoryMobile","buildNumber":"1.0.0"},"android": {"package": "com.example.bedtimeStoryMobile","versionCode": 1}}}
